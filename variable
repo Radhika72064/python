@@ -1,0 +1,10 @@
+"""print  ("hello how are you ",)
+print ("have a good day", end="")
+print (":)")"""
+
+"""x=input("Whats your name")
+print ("Hey" ,x, "how are you",)"""
+
+import keyword
+print("Python keywords are")
+print(keyword.kwlist)
